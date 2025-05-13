@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "HKfjeaWyXgFGVMJniNSWmvr7yCs7tT8ZCicoLJgBpump",
+  "symbol": "SAL",
+  "name": "SALPOWER",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/Sg8xk3q.png",
+  "tags": ["meme", "ai", "community"],
+  "extensions": {
+    "website": "https://t.me/+JfuqgJMYIQUwNjI0",
+    "twitter": "https://x.com/saipowercoin/status/1922069520241328295?s=48"
+  }
+}
